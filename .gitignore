@@ -6,5 +6,5 @@
 # 排除.gitignore文件
 !.gitignore
 # 排除apple.class文件
-!.apple.class
+!apple.class
 
